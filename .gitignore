@@ -10,7 +10,11 @@ git # Created by .ignore support plugin (hsz.mobi)
 .idea/**/dictionaries
 .idea/**/shelf
 
+debug.log
+
 /.idea
+/.vscode
+
 
 # Generated files
 .idea/**/contentModel.xml
